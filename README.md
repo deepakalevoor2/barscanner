@@ -1,2 +1,0 @@
-# barscanner
-Created with CodeSandbox
